@@ -6,3 +6,9 @@ eureka:
     hostname: localhost
 server:
   port: 8761
+# spring:
+#       cloud:
+#         config:
+#             server:
+#                 git:
+#                     uri: https://github.com/jit9628/microservices-configuration-server.git
